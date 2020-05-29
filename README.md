@@ -20,6 +20,12 @@ To perform our analysis we used the Granger causality test which outputs a p-val
 | Weather and Climate data powered by Dark Sky API | https://www.kaggle.com/vishalvjoseph/weather-dataset-for-covid19-predictions |
 
 
+#### DESIGN
+<p align="left">
+  <img src="./src/main/resources/design.png" width="750" title="Design">
+</p>
+
+
 ### Built With
 * [IntelliJ IDEA 2020](https://www.jetbrains.com/idea/)
 * [Apache Spark 2.3.0 - Hadoop 2.7](https://archive.apache.org/dist/spark/spark-2.4.3/)

@@ -8,7 +8,7 @@ These focused factors can then be highlighted, and this method can be used to pr
 
 
 #### ANALYSIS
-To perform our analysis we used the Granger causality test which outputs a p-value that indicates a causal relationship.
+To perform our analysis, we used the Granger causality test which outputs a p-value that indicates a causal relationship.
 
 
 #### DATASETS
@@ -26,7 +26,7 @@ To perform our analysis we used the Granger causality test which outputs a p-val
 </p>
 
 
-### Built With
+#### BUILT WITH
 * [IntelliJ IDEA 2020](https://www.jetbrains.com/idea/)
 * [Apache Spark 2.3.0 - Hadoop 2.7](https://archive.apache.org/dist/spark/spark-2.4.3/)
 
